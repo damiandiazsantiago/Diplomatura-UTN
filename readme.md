@@ -4,6 +4,7 @@
 
 ## Requerimientos Previos
 
+- Pensar un nombre []
 - Diseño []
 - Lógica de Javascript []
 - Imágenes []
