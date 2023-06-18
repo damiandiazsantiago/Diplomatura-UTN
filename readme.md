@@ -24,6 +24,7 @@
 
 ## Tech Stack (Herramientas a utilizar)
 
+- Vite
 - HTML5
 - CSS3
 - Bootstrap
