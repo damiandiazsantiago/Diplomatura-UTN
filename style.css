@@ -68,3 +68,32 @@ a {
     background: none;
     outline: none;
 }
+
+
+
+/* CSS Hecho por Damian */
+
+footer {
+    color: #ffffff;
+    height: 10vh;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    gap: 1rem;
+    align-items: center;
+}
+
+footer .derechos {
+    grid-column: 2 / 3;
+    text-align: center;
+}
+
+footer .redes {
+    display: flex;
+    gap: 0.5rem;
+    justify-content:center;
+    
+}
+
+footer ul {
+    list-style: none;
+}
