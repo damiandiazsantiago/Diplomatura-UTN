@@ -1,26 +1,25 @@
-# Bienvenidos a nuestro proyecto! 
-# AQUI VA NUESTRO NOMBRE
+# Bienvenidos a nuestro proyecto!
 
+# LA SCALONETA
 
 ## Requerimientos Previos
 
-- Pensar un nombre []
-- Diseño []
-- Lógica de Javascript []
-- Imágenes []
-- Medios de contacto []
-- ?
+- Pensar un nombre [x]
+- Diseño [x]
+- Lógica de Javascript [x]
+- Imágenes [x]
+- Medios de contacto [x]
 
 ## Objetivos
 
-- Crear una landing page []
-- Agregar un menu hamburguesa []
-- Agregar una navbar []
-- Navegación entre secciones []
-- Derechos reservados en el footer []
-- Iconos de Redes con link []
-- Mobile First []
-- Responsive []
+- Crear una landing page [x]
+- Agregar un menu hamburguesa [x]
+- Agregar una navbar [x]
+- Navegación entre secciones [x]
+- Derechos reservados en el footer [x]
+- Iconos de Redes con link [x]
+- Mobile First [x]
+- Responsive [x]
 
 ## Tech Stack (Herramientas a utilizar)
 
