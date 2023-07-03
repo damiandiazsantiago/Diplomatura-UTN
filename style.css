@@ -139,6 +139,26 @@ a {
     margin-top: .75rem;
 }
 
+/* Titulos */
+
+ /* Servicios */
+
+ .titulos article {
+    display: flex;
+    background-color: lightblue;
+    justify-content: center;
+    align-items: center;
+    margin: 0 .5rem;
+    gap: .5rem;
+}
+
+.titulos article img {
+    border-radius: 2rem;
+    height: 40vh;
+    width: 50%;
+    margin: 0 auto;
+}
+
 /* Footer */
 
 footer {
@@ -148,6 +168,7 @@ footer {
     grid-template-columns: 1fr 1fr 1fr;
     gap: 1rem;
     align-items: center;
+    padding-top: .5rem;
 }
 
 footer .derechos {
