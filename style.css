@@ -73,6 +73,74 @@ a {
 
 /* CSS Hecho por Damian */
 
+/* Main */
+
+.main-title {
+    background-color: lightblue;
+    height: 40vh;
+    padding: 10vh 0;
+}
+
+.main-title h1 {
+    color:#ffffff;
+    display: flex;
+    justify-content: center;
+    font-size: 3rem;
+    padding-bottom: 1rem;
+}
+
+.main-title h2 {
+    color:#ffffff;
+    display: flex;
+    justify-content: center;
+    font-size: 2rem;
+    font-weight: 500;
+    margin-top: 2rem;
+}
+
+.products-section {
+    padding: 2rem 1.5rem;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    grid-gap: 1rem;
+    background-color: lightblue;
+    color: #ffffff;
+    height: 40vh;
+}
+
+.products-section article {
+    border: 2px solid black;
+    border-radius: 2rem;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    text-align: center;
+    background-color: #2c083b;
+}
+
+.products-section article:hover {
+    background-color: #8f689f;
+    cursor: pointer;
+}
+
+.products-section article a {
+    text-decoration: none;
+    color:#ffffff
+}
+
+.products-section article .product-title {
+    font-size: 1.2rem;
+    font-weight: bold;
+}
+
+.products-section article .product-description {
+    font-size: 0.9rem;
+    font-weight: 500;
+    margin-top: .75rem;
+}
+
+/* Footer */
+
 footer {
     color: #ffffff;
     height: 10vh;
@@ -91,7 +159,6 @@ footer .redes {
     display: flex;
     gap: 0.5rem;
     justify-content:center;
-    
 }
 
 footer ul {
