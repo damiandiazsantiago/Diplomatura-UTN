@@ -141,9 +141,7 @@ a {
 
 /* Titulos */
 
- /* Servicios */
-
- .titulos article {
+.titulos article a {
     display: flex;
     background-color: lightblue;
     justify-content: center;
@@ -152,11 +150,20 @@ a {
     gap: .5rem;
 }
 
-.titulos article img {
+.titulos article a img {
     border-radius: 2rem;
     height: 40vh;
     width: 50%;
     margin: 0 auto;
+    filter: grayscale(80%);
+}
+
+.titulos article a img:hover {
+    border-radius: 2rem;
+    height: 40vh;
+    width: 50%;
+    margin: 0 auto;
+    filter:grayscale(0%)
 }
 
 /* Footer */
