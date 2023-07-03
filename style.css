@@ -109,7 +109,7 @@ a {
 }
 
 .products-section article {
-    border: 2px solid black;
+    border: 2px solid white;
     border-radius: 2rem;
     display: flex;
     flex-direction: column;
@@ -156,6 +156,7 @@ a {
     width: 50%;
     margin: 0 auto;
     filter: grayscale(80%);
+    border: 2px solid white;
 }
 
 .titulos article a img:hover {
@@ -163,7 +164,7 @@ a {
     height: 40vh;
     width: 50%;
     margin: 0 auto;
-    filter:grayscale(0%)
+    filter:grayscale(0%);
 }
 
 /* Footer */
